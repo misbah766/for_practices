@@ -9,5 +9,6 @@ Created on Thu Jun  2 12:51:56 2022
 #Thsi is a variable practsise exercise 
 
 
-hello = "Its my second exercise"
-print(hello)
+# print(hello) error
+mystring = "hello"
+print(mystring)
