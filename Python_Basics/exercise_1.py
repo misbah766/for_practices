@@ -8,15 +8,4 @@ Created on Thu Jun  2 10:54:06 2022
 #Exercise 1 
 print("hi")
 
-#Exercise 2 
-
-# print(hello) error
-mystring = "hello"
-print(mystring)
-
-
-#Exercise 3
-
-my_string = "world"
-print(my_string)
 
